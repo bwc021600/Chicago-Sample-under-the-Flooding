@@ -1,0 +1,10 @@
+station,operational,ports,installed_ports,mean_service_min,entries_3hr,arrivals_veh_per_hour,offered_load_erlangs,intensity_utilization,queue_stable,average_wait_hours,average_wait_min,total_wait_vehicle_hours,total_wait_vehicle_min,average_service_min,average_sojourn_min,physical_average_sojourn_min,queue_wait_disutility_multiplier,utilization_crowding_penalty_min,behavioral_queue_penalty_min,perceived_station_choice_cost_min,compact_lambda_intensity_wait_hr
+C1,False,0,30,109.6,0.0,0.0,0.0,inf,False,inf,inf,0.0,0.0,109.6,inf,inf,2.0,inf,inf,inf,--
+C2,False,0,20,120.0,0.0,0.0,0.0,inf,False,inf,inf,0.0,0.0,120.0,inf,inf,2.0,inf,inf,inf,--
+C3,True,74,74,103.13513513513513,576.2751153949033,192.09170513163443,330.1900661181608,4.462027920515687,False,inf,inf,inf,inf,103.13513513513513,inf,inf,2.0,1000000.0,1000000.0,1000000.0,192.091705|4.462028|inf
+C4,False,0,150,76.84,0.0,0.0,0.0,inf,False,inf,inf,0.0,0.0,76.84,inf,inf,2.0,inf,inf,inf,--
+C5,False,0,65,44.4,0.0,0.0,0.0,inf,False,inf,inf,0.0,0.0,44.4,inf,inf,2.0,inf,inf,inf,--
+C6,False,0,632,112.96518987341773,0.0,0.0,0.0,inf,False,inf,inf,0.0,0.0,112.96518987341773,inf,inf,2.0,inf,inf,inf,--
+C7,False,0,64,93.1875,0.0,0.0,0.0,inf,False,inf,inf,0.0,0.0,93.1875,inf,inf,2.0,inf,inf,inf,--
+C8,True,50,50,113.76,107.50957471783866,35.83652490594622,67.94605122167404,1.3589210244334808,False,inf,inf,inf,inf,113.76,inf,inf,2.0,1000000.0,1000000.0,1000000.0,35.836525|1.358921|inf
+C9,True,29,29,50.06896551724138,202.76004946975752,67.58668315658583,56.39992180653025,1.9448248898803535,False,inf,inf,inf,inf,50.06896551724138,inf,inf,2.0,1000000.0,1000000.0,1000000.0,67.586683|1.944825|inf
