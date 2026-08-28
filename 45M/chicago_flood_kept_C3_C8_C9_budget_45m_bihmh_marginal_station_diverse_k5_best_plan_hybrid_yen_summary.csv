@@ -1,0 +1,2 @@
+refined_records,refined_paths,refined_path_edge_entries,refined_ev_demand,refined_ev_demand_share,average_paths_per_refined_record,minimum_paths_per_refined_record,maximum_paths_per_refined_record,initial_refinement_seconds,dynamic_refinement_seconds,dynamic_enrichment_rounds
+619,3083,144495,691.581390975,0.03474938855055286,4.980613893376414,2,5,13.146670874208212,15.674842165783048,19

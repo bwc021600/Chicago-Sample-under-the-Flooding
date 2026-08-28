@@ -1,0 +1,4 @@
+station_id,station_node_id,k_ports,mean_service_min,cv2,level2_ports,dcfc_ports,entry_link_id,exit_link_id,bypass_link_id,entrance_node_id,exit_node_id,station_node_label,entrance_node_label,exit_node_label,service_time_formula,repair_cost_usd,initially_operational,repair_candidate,individually_budget_feasible,cost_per_port_usd
+C4,12986,150,76.84,1.0,67,83,CRL028015,CRL028016,CRL028014,12998,12999,C4,c41,c42,(42*dcfc + 120*level2)/(dcfc+level2),1800000.0,False,True,True,12000.0
+C5,12987,65,44.4,1.0,2,63,CRL028020,CRL028021,CRL028019,13000,13001,C5,c51,c52,(42*dcfc + 120*level2)/(dcfc+level2),780000.0,False,True,True,12000.0
+C7,12989,64,93.1875,1.0,42,22,CRL028030,CRL028031,CRL028029,13004,13005,C7,c71,c72,(42*dcfc + 120*level2)/(dcfc+level2),768000.0,False,True,True,12000.0
