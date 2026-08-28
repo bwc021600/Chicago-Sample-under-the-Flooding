@@ -76,7 +76,7 @@ The implementation includes:
 - EV initial state-of-charge classes and a 235-mile full-charge driving range;
 - energy-feasible direct and charging paths;
 - multi-server `M/G/K` charging-station queues;
-- hybrid tree-seeded selective Yen path generation with up to five EV alternatives;
+- Yen path generation with up to five EV alternatives;
 - logit route and charging-station choice;
 - the method of successive averages for the lower-level assignment; and
 - a population-based Benders-inspired hyper-matheuristic for budget-constrained fortification.
