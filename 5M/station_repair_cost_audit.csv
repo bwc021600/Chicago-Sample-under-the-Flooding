@@ -1,0 +1,10 @@
+station_id,k_ports,mean_service_min,repair_cost_usd,initially_operational,repair_candidate,individually_budget_feasible
+C1,30,109.6,360000.0,False,True,True
+C2,20,120.0,240000.0,False,True,True
+C3,74,103.13513513513513,888000.0,True,False,True
+C4,150,76.84,1800000.0,False,True,True
+C5,65,44.4,780000.0,False,True,True
+C6,632,112.96518987341773,7584000.0,False,True,False
+C7,64,93.1875,768000.0,False,True,True
+C8,50,113.76,600000.0,True,False,True
+C9,29,50.06896551724138,348000.0,True,False,True
